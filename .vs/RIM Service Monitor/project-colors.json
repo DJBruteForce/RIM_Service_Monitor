@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d213444c-5643-4d07-92d0-cee4b1617deb": {
+      "ProjectGuid": "d213444c-5643-4d07-92d0-cee4b1617deb",
+      "DisplayName": "RIM Service Monitor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

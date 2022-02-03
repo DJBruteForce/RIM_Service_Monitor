@@ -1,0 +1,11 @@
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\bin\Debug\RIM Service Monitor.exe.config
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\bin\Debug\RIM Service Monitor.exe
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\bin\Debug\RIM Service Monitor.pdb
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.csproj.AssemblyReference.cache
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM_Service_Monitor.RIMServiceMonitor.resources
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.csproj.GenerateResource.cache
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.csproj.CoreCompileInputs.cache
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.exe
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM Service Monitor.pdb
+C:\Work\Development\VisualStudio\Services\RIM Service Monitor\obj\Debug\RIM_Service_Monitor.ProjectInstaller.resources
